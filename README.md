@@ -1,7 +1,5 @@
 # Mods_Ready-or-Not
 
-{:toc}
-
 ## Einstellungen
 Pfad für die Mod's: C:\Steam\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks\_mod pack_
 
