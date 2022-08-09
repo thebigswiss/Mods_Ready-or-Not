@@ -5,6 +5,6 @@ Pfad für die Mod's: C:\Steam\steamapps\common\Ready Or Not\ReadyOrNot\Content\P
 
 ## Mod auflistung
 
-#### pakchunk999-InGameMenu_P.pak:<br>
+#### [pakchunk999-InGameMenu_P.pak:](https://github.com/thebigswiss/Mods_Ready-or-Not/blob/main/pakchunk999-InGameMenu_P.pak)<br>
 Increase player count. Kick players. Quickly pick maps and gamemode. Load custom levels.<br>
 [Link zu Nexus Mod](https://www.nexusmods.com/readyornot/mods/476)
